@@ -1,4 +1,4 @@
-# Change Log
+## Change Log
 
 ## [1.0.0](https://github.com/rubykube/barong/tree/1.0.0) (2018-02-19)
 **Closed issues:**
