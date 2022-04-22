@@ -1,4 +1,4 @@
-# Change Log
+## Change Log
 
 ## [Unreleased](https://github.com/rubykube/peatio/tree/HEAD)
 
